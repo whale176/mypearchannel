@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+    <name>github.com/whale176/mypearchannel</name>
+    <summary>My PEAR Channel</summary>
+    <alias>mypearch</alias>
+    <url>https://github.com/whale176/mypearchannel.git</url>
+</server>
