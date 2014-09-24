@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/whale176/mypearchannel.git</id>
-    <updated>2014-09-24T11:50:16+08:00</updated>
+    <id>http://whale176.github.io/mypearchannel</id>
+    <updated>2014-09-24T13:43:34+08:00</updated>
     <title>My PEAR Channel Latest Releases</title>
-    <link href="https://github.com/whale176/mypearchannel.git/feed.xml" rel="self" />
+    <link href="http://whale176.github.io/mypearchannel/feed.xml" rel="self" />
     <author>
-        <name>https://github.com/whale176/mypearchannel.git</name>
+        <name>http://whale176.github.io/mypearchannel</name>
     </author>
 
 

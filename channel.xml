@@ -6,10 +6,10 @@
     <servers>
         <primary>
             <rest>
-                <baseurl type="REST1.0">https://github.com/whale176/mypearchannel.git/rest/</baseurl>
-                <baseurl type="REST1.1">https://github.com/whale176/mypearchannel.git/rest/</baseurl>
-                <baseurl type="REST1.2">https://github.com/whale176/mypearchannel.git/rest/</baseurl>
-                <baseurl type="REST1.3">https://github.com/whale176/mypearchannel.git/rest/</baseurl>
+                <baseurl type="REST1.0">http://whale176.github.io/mypearchannel/rest/</baseurl>
+                <baseurl type="REST1.1">http://whale176.github.io/mypearchannel/rest/</baseurl>
+                <baseurl type="REST1.2">http://whale176.github.io/mypearchannel/rest/</baseurl>
+                <baseurl type="REST1.3">http://whale176.github.io/mypearchannel/rest/</baseurl>
             </rest>
         </primary>
     </servers>
